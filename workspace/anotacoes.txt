@@ -1,0 +1,18 @@
+ Caracter '?' diz pode ser substituido por qualquer outro em uma busca shell 
+Esses caracteres de ? e * são utilizados para que sejam buscados mais de um arquivo que tenham o mesmo nome base, porém existe uma pequena diferença: O ? só encontra os arquivos que tenham apenas UM caractere diferente do nome base, enquanto o * busca quaisquer números de caracteres.
+zipar pasta : zip -r pasta.zip pasta/ 
+mostrar conteudo  pasta zipada : unzip -l pasta.zip 
+ tar -xzf work.tar.gz
+ tar -czf work.tar.gz 
+Visualizar so inicio do arquivo head  -n num_linhas nome do arquivo 
+Visualizar so inicio do arquivo head  nome do arquivo 
+Visualizar so fim  do arquivo tail -n num_linhas nome do arquivo 
+Visualizar so fim  do arquivo tail nome do arquivo 
+Visualizar todo o arquivo less nome_do_ arquivo 
+Adicionar no fim da linha no vi : tecla_A 
+Navegador pro final do arquivo :tecla_G 
+Navegador pra linha n do arquivo  :tecla_nG 
+Navegador pra inicio da linha atual do arquivo  :tecla_0 
+Navegador busca ocorrencia de palavra no arquivo  :/palavra 
+Navegador busca proxima ocorrencia de palavra no arquivo  : n 
+Navegador busca  ocorrencia anterior de palavra no arquivo  : N 
